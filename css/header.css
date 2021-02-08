@@ -1,0 +1,7 @@
+.jumbotron {
+    background: url('../assets/img/bw.jpg') center bottom;
+    background-size: cover;
+    height:30vh;
+    color: white;
+    /* font-family: var(--font-four); */
+}
